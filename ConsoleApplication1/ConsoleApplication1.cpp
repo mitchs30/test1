@@ -2,15 +2,10 @@
 //
 
 #include "stdafx.h"
-#include <iostream>
-using namespace std;
+
+
 int main()
 {
-
-	cout << "dddddddddd" << endl;
-	///////////;;;;;;;;;;;;
-	getchar();
-
     return 0;
 }
 
